@@ -1,12 +1,12 @@
 // firebase.js
 
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyCOMfJ1YtbHeszwOSaPDfDO3ppGwliavuU",
+  authDomain: "qchat-f07eb.firebaseapp.com",
+  projectId: "qchat-f07eb",
+  storageBucket: "qchat-f07eb.firebasestorage.app",
+  messagingSenderId: "441281898455",
+  appId: "1:441281898455:web:c369ac4ff1f6ff8bd08d92"
 };
 
 // Initialize Firebase
