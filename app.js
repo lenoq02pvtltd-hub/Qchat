@@ -4,7 +4,7 @@ let confirmationResult = null;
 
 // Send OTP
 function sendOTP() {
-    const phone = document.getElementById("phoneNumber").value;
+    const phone = "+91"+document.getElementById("phoneNumber").value.trim();
 
     if (phone === "") {
         alert("Enter your mobile number.");
