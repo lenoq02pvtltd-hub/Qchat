@@ -5,8 +5,6 @@ let confirmationResult = null;
 // Send OTP
 function sendOTP() {
     const phone = "+91" + document.getElementById("phoneNumber").value.replace(/\D/g, "");
-console.log(phone);
-alert(phone);
 
     if (phone === "") {
         alert("Enter your mobile number.");
