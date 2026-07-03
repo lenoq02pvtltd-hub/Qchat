@@ -1,1 +1,0 @@
-Get a free Groq API key from https://console.groq.com/keys then replace YOUR_GROQ_API_KEY in script.js.
